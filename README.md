@@ -1,34 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-*{
-   margin: 0;
-   padding: 0;
-   font-family: sans-serif;
-}
-
-.omskert{
-    position: relative;
-    width: 100;
-    height: 100vh;
-    background: #eff4fd;
-}
-
-nav{
-    display: flex;
-    width: 84%;
-    margin: auto;
-    padding: 20px 0;
-    align-items: center;
-    justify-content: space-between;
-}
-
-nav ul li{
-    display: inline-block;
-    list-style: none;
-    margin: 10px 20px;
-
-}
  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
