@@ -1,0 +1,1 @@
+# IT-STATIC22.github.io
