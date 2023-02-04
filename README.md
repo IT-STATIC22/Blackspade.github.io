@@ -14,9 +14,9 @@
         <ul>
             <li><a href="#">HOME</a></li>
             <li><a href="#">ABOUT ME</a></li>
+            <li><a href="#">CONTACT</a></li>
             <li><a href="#">PORTFOLIO</a></li>
-            <li><a href="#">SERVICES</a></li>
-            <li><a href="#">HIRE ME</a></li>
+            <li><a href="#">BLOG</a></li>
 
         </ul>
 
