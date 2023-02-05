@@ -32,7 +32,7 @@
       </section>
       <section id="about me">
         <h2>About me</h2>
-        <p>Hi! threr i am Carlo E. Agbong i am 22 years of a 3rd year college taking up a course of Bachelor of Science and Information Technology at JOSE MARIA COLLEGE and i currently live in my hometown at Bunawan Davao City.</p>
+        <p>Hi! there i am Carlo E. Agbong i am 22 years of a 3rd year college taking up a course of Bachelor of Science and Information Technology at JOSE MARIA COLLEGE and i currently live in my hometown at Bunawan Davao City.</p>
       </section>
       <section id="portfolio">
         <h2>Portfolio</h2>
@@ -40,7 +40,7 @@
       </section>
       <section id="blog">
         <h2>Blog</h2>
-        <p>I am a web developer with 5 years of experience building dynamic and interactive websites. I have a passion for creating user-friendly experiences and enjoy exploring new technologies and design trends.</p>
+        <p>Thank you for visiting my blog site! This website serves as a place for people to discuss various subjects. You'll find something here that interests you, whether your interests are in technology, travel, food, or you're just seeking for some inspiration. Use the search box or our latest posts to discover exactly what you're looking for.</p>
       </section>
       <section id="Services">
         <h2>Services</h2>
