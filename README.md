@@ -48,7 +48,6 @@
         <img src="" alt="">
         <img src="" alt="">
       </section>
-          </div>
     </main>
   </body>
 </html>
