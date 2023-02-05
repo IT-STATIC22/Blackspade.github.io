@@ -44,10 +44,6 @@
       <section id="Services">
        <div class="services-area" id="Services">
         <div class="text-part">
-            <h1>Services Area</h1>
+            <h2>Services Area</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam accusamus id ullam cum. Repellendus vero, nam exercitationem obcaecati esse voluptates alias consectetur! Omnis, provident. Quidem blanditiis tempora provident odit sapiente.</p>
         </div>
-      </section>
-    </main>
-  </body>
-</html>
