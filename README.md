@@ -11,7 +11,7 @@
       <nav>
         <a href="#home">Home</a>
         <a href="#contacts">Contacts</a>
-        <a href="#about">About</a>
+        <a href="#about me">About me</a>
         <a href="#portfolio">Portfolio</a>
         <a href="#blog">Blog</a>
       </nav>
@@ -30,8 +30,8 @@
           <li>Instagram: https://www.instagram.com/carloescobio/</li>
         </ul>
       </section>
-      <section id="about">
-        <h2>About</h2>
+      <section id="about me">
+        <h2>About me</h2>
         <p>Hi! threr i am Carlo E. Agbong i am 22 years of a 3rd year college taking up a course of Bachelor of Science and Information Technology at JOSE MARIA COLLEGE and i currently live in my hometown at Bunawan Davao City.</p>
       </section>
       <section id="portfolio">
