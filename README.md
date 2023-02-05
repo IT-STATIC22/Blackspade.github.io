@@ -42,8 +42,8 @@
         <p>Thank you for visiting my blog site! This website serves as a place for people to discuss various subjects. You'll find something here that interests you, whether your interests are in technology, travel, food, or you're just seeking for some inspiration. Use the search box or our latest posts to discover exactly what you're looking for.</p>
       </section>
       <section id="Services">
-       <div class="services-area" id="Services">
+       <div class="services" id="Services">
         <div class="text-part">
-            <h2>Services Area</h2>
+            <h2>Services</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam accusamus id ullam cum. Repellendus vero, nam exercitationem obcaecati esse voluptates alias consectetur! Omnis, provident. Quidem blanditiis tempora provident odit sapiente.</p>
         </div>
