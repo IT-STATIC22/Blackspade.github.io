@@ -39,4 +39,8 @@ img {
   height: 200px;
   width: 200px;
 }
+.home, .contact{
+  background: #262626;
+    color: #fff;
+}
 </style>
