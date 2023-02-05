@@ -19,7 +19,7 @@
     <main>
       <section id="home">
         <h2>Home</h2>
-        <p>Welcome to my resume website.</p>
+        <p>COLLEGE OF INFORMATION TECHNOLOGY.</p>
       </section>
       <section id="contacts">
         <h2>Contacts</h2>
