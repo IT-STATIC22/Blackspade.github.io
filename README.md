@@ -6,8 +6,7 @@
 
   </head>
   <body>
-    <header>
-      <h1>WELCOME TO MY WEBSITE</h1>
+    <header><h1 style="background-color:rgb(77, 105, 133);">WELCOME TO MY WEBSITE</h1>
       <nav>
         <a href="#home">Home</a>
         <a href="#contacts">Contacts</a>
